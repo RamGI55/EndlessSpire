@@ -17,7 +17,7 @@ The classic Action RPG(ARGP) multiplayer game built with Unreal Engine 5.4, feat
 
 
 ### ⚠️ Disclamer 
-This repository contains ** source code of the game only **is intended for portfolio and eductiational reference purpposes. 
+This repository contains **source code of the game only**is intended for portfolio and eductiational reference purpposes. 
 
 #### What's Included; 
 - Complete source code for the EndlessSpire ARPG. 
