@@ -45,11 +45,11 @@ EndlessSpire
 
 
 ### 🙆 Contributors 
-Hyunsoo Park - @RamGI55 
+**Hyunsoo Park - @RamGI55 / hyunsoo.park991@gmail.com**
 - Dungeon Generation System
 - Dungeon Event programming
 - Enemy AI and Behavior trees
 
-WooJu Lee -
-- Game Architecture
-- Input System
+**WooJu Lee -**
+- Build the Game architecture of the game
+- Input system
