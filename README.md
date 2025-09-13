@@ -1,5 +1,5 @@
 # 🕹️ EndlessSpire
-The classic Action RPG(ARGP) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
+The classic Action RPG(ARPG) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
 
 ### 🪄 What We Made.
 - Multiple Character Classes: Gives multiple character archietypes with unique abilites and playestyles.
