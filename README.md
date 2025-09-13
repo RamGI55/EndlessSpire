@@ -31,7 +31,7 @@ This repository contains **source code of the game only** is intended for portfo
 #### Usage Rights:
 - This repository is provided for portfolio reference and code review only
 - Not intended for commercial redistribution without permission
-- This repository under the Apache license
+- This repository under the Apache license, all responsiblity and rights under the Apache license unless explicitly written. 
 
 
 ### 📁 Repository Contents
