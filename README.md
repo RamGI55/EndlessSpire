@@ -36,8 +36,11 @@ This repository contains only source code of the game is intended for portfolio 
 
 ### 📁 Repository Contents
 This repository contains the source code of the EndlessSpire, as follows;
+
+```
 ├── Private/  # .Cpp Source Code of the each classes  
 ├── Public/  #.h Source code of the each classes
+```
 
 
 ### 🙆 Contributors 
