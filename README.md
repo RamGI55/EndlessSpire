@@ -2,18 +2,18 @@
 The classic Action RPG(ARPG) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
 
 ### 🪄 What We Made.
-- Multiple Character Classes: Gives multiple character archietypes with unique abilites and playestyles.
-- Real-Time Combat System:
+- Multiple Character Classes: Gives multiple character archietypes with unique abilites and play styles.
+- Real-Time Combat System: Classi Action RPG combat mechanism runs in real time with dodge, block and unique attack mechanism each character archtype. 
   
-- Unlimited Dungeon Crawling:
-- Event based Dungeon Rooms:
-- Dynamic Dungeon Generations: 
+- Unlimited Dungeon Crawling: Into the unlimited dungeon spire, when you crawl deeper, you will get harder enemy.
+- Event based Dungeon Rooms: Each dungeon rooms has the unique events; unexpected treasure boxes, upgrad your equipment through the shop, and more over the enemies.
+- Dynamic Dungeon Generations: Dungeon generation with BFS algorithm give the players to unlimited experience of the dungeon. 
   
-- Inventory System and Randomised Roots:
-- Equipment Stats and Levels:
+- Inventory System and Randomised Roots: Inventory systems makes you keep the unique items. 
+- Equipment Stats and Levels: stats and level systems to make the player stronger in each fights.
 
-- Co-op Multiplay
-- Dedicated Server System:
+- Co-op Multiplay: Team up with friends to tackle the spire together.
+- Dedicated Server System: Dedicated server enviornment which gives the player better co-op experienece. 
 
 
 ### ⚠️ Disclamer 
