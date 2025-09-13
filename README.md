@@ -1,7 +1,7 @@
-# EndlessSpire
+# 🕹️ EndlessSpire
 The classic Action RPG(ARGP) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
 
-### What We Made.
+### 🪄 What We Made.
 - Multiple Character Classes: Gives multiple character archietypes with unique abilites and playestyles.
 - Real-Time Combat System:
   
@@ -16,7 +16,7 @@ The classic Action RPG(ARGP) multiplayer game built with Unreal Engine 5.4, feat
 - Dedicated Server System:
 
 
-### Disclamer 
+### ⚠️ Disclamer 
 This repository contains only source code of the game is intended for portfolio and eductiational reference purpposes. 
 
 #### What's Included; 
@@ -40,7 +40,7 @@ This repository contains the source code of the EndlessSpire, as follows;
 ├── Public/  #.h Source code of the each classes
 
 
-### Contributors 
+### 🙆 Contributors 
 Hyunsoo Park - @RamGI55 
 - Dungeon Generation System
 - Dungeon Event programming
