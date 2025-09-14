@@ -1,7 +1,7 @@
 # 🕹️ EndlessSpire
 The classic Action RPG(ARPG) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
 
-### 🪄 What We Made.
+## 🪄 What We Made.
 - Multiple Character Classes: Gives multiple character archietypes with unique abilites and play styles.
 - Real-Time Combat System: Classi Action RPG combat mechanism runs in real time with dodge, block and unique attack mechanism each character archtype. 
   
@@ -16,25 +16,25 @@ The classic Action RPG(ARPG) multiplayer game built with Unreal Engine 5.4, feat
 - Dedicated Server System: Dedicated server enviornment which gives the player better co-op experienece. 
 
 
-### ⚠️ Disclamer 
+## ⚠️ Disclamer 
 This repository contains **source code of the game only** is intended for portfolio and eductiational reference purpposes. 
 
-#### What's Included; 
+### What's Included; 
 - Complete source code for the EndlessSpire ARPG. 
 
-#### What's NOT Included: 
+### What's NOT Included: 
 - No executeable/playeable gamefiles
 - No complied binaries or distribution packageds
 - Unreal Engine project Files and configurations
 - 3rd party assets and props in the game
 
-#### Usage Rights:
+### Usage Rights:
 - This repository is provided for portfolio reference and code review only
 - Not intended for commercial redistribution without permission
 - This repository under the Apache license, all responsiblity and rights under the Apache license unless explicitly written. 
 
 
-### 📁 Repository Contents
+## 📁 Repository Contents
 This repository contains the source code of the EndlessSpire, as follows;
 
 ```
@@ -44,7 +44,7 @@ EndlessSpire
 ```
 
 
-### 🙆 Contributors 
+## 🙆 Contributors 
 **Hyunsoo Park - @RamGI55 / hyunsoo.park991@gmail.com**
 - Dungeon Generation System
 - Dungeon Event programming
@@ -86,7 +86,7 @@ EndlessSpire
 
 
 
-## ⚠️ 면책 고지
+## ⚠️ 면책 고지/유의사항
 이 저장소에는 게임의 **소스 코드만** 포함되어 있으며, 포트폴리오 및 교육 참고 목적으로만 사용됩니다.  
 
 ### 포함된 내용
