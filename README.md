@@ -1,9 +1,9 @@
 # 🕹️ EndlessSpire
 The classic Action RPG(ARPG) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
 
-## 🪄 What We Made.
+## 🪄 What We Made
 - Multiple Character Classes: Gives multiple character archietypes with unique abilites and play styles.
-- Real-Time Combat System: Classi Action RPG combat mechanism runs in real time with dodge, block and unique attack mechanism each character archtype. 
+- Real-Time Combat System: Classic Action RPG combat mechanism runs in real time with dodge, block and unique attack mechanism each character archtype. 
   
 - Unlimited Dungeon Crawling: Into the unlimited dungeon spire, when you crawl deeper, you will get harder enemy.
 - Event based Dungeon Rooms: Each dungeon rooms has the unique events; unexpected treasure boxes, upgrad your equipment through the shop, and more over the enemies.
