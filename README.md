@@ -1,10 +1,8 @@
 # 🕹️ EndlessSpire
 The classic Action RPG(ARPG) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
 
-## 🎮 Gameplay 
+## 🎮 Gameplay Video 
 [![영상 썸네일](https://img.youtube.com/vi/RwbFDCbieOo/0.jpg)](https://www.youtube.com/watch?v=RwbFDCbieOo)
-
-
 
 ## 🪄 What We Made
 - Multiple Character Classes: Gives multiple character archietypes with unique abilites and play styles.
@@ -77,7 +75,8 @@ EndlessSpire
 # 🕹️ EndlessSpire
 언리얼 엔진 5.4로 개발된 클래식 액션 RPG(ARPG) 멀티플레이 게임으로, 끝없는 던전 크롤링 메커니즘과 다양한 캐릭터 클래스를 활용한 협동 플레이가 특징입니다.  
 
-
+## 🎮 게임 플레이 영상
+[![영상 썸네일](https://img.youtube.com/vi/RwbFDCbieOo/0.jpg)](https://www.youtube.com/watch?v=RwbFDCbieOo)
 
 ## 🪄 우리가 만든 것
 - **다양한 캐릭터 클래스**: 개성 있는 능력과 플레이 스타일을 가진 여러 캐릭터 아키타입 제공  
