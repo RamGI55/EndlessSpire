@@ -50,16 +50,28 @@ EndlessSpire
 - Dungeon Event programming
 - Enemy AI and Behavior trees
 
-**WooJu Lee -**
+**WooJu Lee - [@Spacekomad](https://github.com/Spacekomad) / spacekomad@gmail.com** 
 - Build the Game architecture of the game
 - Input system
+- Warrior Character Design/Programming
 
+**JeongYeob Jeon**  
+- Dedicated Server Programming
+- Claric Character Design/Programming
 
+**SeonWoo Kim**  
+- Programming Inventory System 
+- Archer Character Design/Programming
+
+**JinSam Park**  
+- Character Stat System
+- Mage Character Design/Programming
+
+---
 
 # 🕹️ EndlessSpire
 언리얼 엔진 5.4로 개발된 클래식 액션 RPG(ARPG) 멀티플레이 게임으로, 끝없는 던전 크롤링 메커니즘과 다양한 캐릭터 클래스를 활용한 협동 플레이가 특징입니다.  
 
----
 
 ## 🪄 우리가 만든 것
 - **다양한 캐릭터 클래스**: 개성 있는 능력과 플레이 스타일을 가진 여러 캐릭터 아키타입 제공  
@@ -72,7 +84,7 @@ EndlessSpire
 - **협동 멀티플레이**: 친구들과 함께 팀을 이루어 스파이어에 도전  
 - **전용 서버 시스템**: 더 나은 협동 경험을 제공하는 전용 서버 환경  
 
----
+
 
 ## ⚠️ 면책 고지
 이 저장소에는 게임의 **소스 코드만** 포함되어 있으며, 포트폴리오 및 교육 참고 목적으로만 사용됩니다.  
@@ -91,11 +103,14 @@ EndlessSpire
 - 별도의 허가 없이 상업적 재배포 불가  
 - 이 저장소는 **Apache 라이선스**를 따르며, 명시적으로 기재되지 않은 모든 책임과 권리는 Apache 라이선스에 따라 적용됩니다.  
 
----
 
 ## 📁 저장소 구성
+```
+EndlessSpire
+├── Private/  # .Cpp Source Code of the each classes  
+├── Public/  #.h Source code of the each classes
+```
 
----
 
 ## 🙆 Contributors
 **Hyunsoo Park - [@RamGI55](https://github.com/RamGI55) / hyunsoo.park991@gmail.com**  
@@ -108,14 +123,14 @@ EndlessSpire
 - 입력 시스템
 - 워리어 캐릭터
 
-- **JeongYeob Jeon -**  
+**JeongYeob Jeon**  
 - 클레릭 캐릭터
 - 데디케이티드 서버 구조
 
-- **SeonWoo Kim -**  
+**SeonWoo Kim**  
 - 인벤토리 시스템
 - 아처 캐릭터
 
-- **JinSam Park -**  
+**JinSam Park**  
 - 장착 장비 시스템
 - 메이지 캐릭터
