@@ -2,7 +2,7 @@
 The classic Action RPG(ARPG) multiplayer game built with Unreal Engine 5.4, featuring the endless dungeon crwalling mechaincs and cooperative gameplay with the variable chracter classes. 
 
 ## 🎮 Gameplay 
-[Watch the technical Showcase video!](https://www.youtube.com/watch?v=RwbFDCbieOo)
+![영상 썸네일](https://img.youtube.com/vi/RwbFDCbieOo/0.jpg)](https://www.youtube.com/watch?v=RwbFDCbieOo)
 
 
 ## 🪄 What We Made
